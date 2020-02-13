@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eizietofo.samechxb.top/sitemap.xml
